@@ -1,11 +1,11 @@
 ## Hey! It's me. Lin! 👋
 😄 Pronouns: he/him
 
-I probably am designing something right now, but I would love to chat with you about it ☕️. 
-🤝 Reach out to me on: 
-Linkedin: https://www.linkedin.com/in/linkhantko/
-Email: lkk19@bu.edu
-Personal Website: https://linkhantko.com/
+I probably am designing something right now, but I would love to chat with you about it ☕️. <br>
+🤝 Reach out to me on: <br>
+Linkedin: https://www.linkedin.com/in/linkhantko/ <br>
+Email: lkk19@bu.edu <br>
+Personal Website: https://linkhantko.com/ <br>
 
 🔭 I'm currently working on...
 1. Awesome CSS animations
