@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey! It's me. Lin! 👋
 
 <!--
 **Linkhant19/Linkhant19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
