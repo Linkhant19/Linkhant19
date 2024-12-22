@@ -2,6 +2,8 @@
 ### I am studying Computer Science and Psychology at Boston University and graduating in May 2025.
 ### I am currently looking for jobs that can challenge me creatively. 
 
+<hr>
+
 I am probably designing something right now, but I would love to chat with you about it ☕️. <br>
 🤝 Reach out to me on: <br>
 Linkedin: https://www.linkedin.com/in/linkhantko/ <br>
