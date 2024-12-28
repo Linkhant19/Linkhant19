@@ -1,6 +1,6 @@
 ## Hey! It's me. Lin! 👋
 ### I am studying Computer Science and Psychology at Boston University and graduating in May 2025.
-### I am currently looking for jobs that can challenge me creatively. 
+### I am currently looking for SWE jobs that can challenge me creatively. 
 
 <hr>
 
