@@ -11,13 +11,9 @@ Linkedin: https://www.linkedin.com/in/linkhantko/ <br>
 Email: lkk19@bu.edu <br>
 Website: https://linkhantko.com/ <br>
 
-🔭 I'm currently working on...
-1. Awesome CSS and JavaScript animations
-2. Full Stack applications with Django
-3. Revamping my personal website
+🔭 I'm currently working on... Revamping my Personal Website! 
 
-👯 I’m looking to collaborate on ...
-- Improving my Hide and Seek Card Game
+👯 I’m looking to collaborate on ... Improving my Hide and Seek Card Game.
 
 <hr>
 
