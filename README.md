@@ -6,10 +6,6 @@
 
 I am probably designing something right now, but I would love to chat with you about it ☕️. <br>
 <br>
-🤝 Reach out to me on: <br>
-Linkedin: https://www.linkedin.com/in/linkhantko/ <br>
-Email: lkk19@bu.edu <br>
-Website: https://linkhantko.com/ <br>
 
 🔭 I'm currently working on... Revamping my Personal Website! 
 
