@@ -1,7 +1,8 @@
 ## Hey! It's me. Lin! 👋
-I am studying Computer Science and Psychology at Boston University and graduating in May 2025.
-I am currently looking for SWE jobs that can challenge me creatively. 
+I studied Computer Science and Psychology at Boston University and graduated in May 2025.
+I am currently working as a Software Consultant. 
 
-I am probably designing something right now, but I would love to chat with you about it ☕️. <br>
+Outside of work, I love to create. 
+<br>
 <br>
 
